@@ -268,12 +268,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-14 23:03:10 +0300",
+      "minecraft:old_growth_pine_taiga": "2025-06-15 02:07:10 +0300",
+      "minecraft:frozen_river": "2025-06-15 01:11:56 +0300",
+      "minecraft:taiga": "2025-06-15 02:07:14 +0300",
       "minecraft:cherry_grove": "2025-06-14 23:00:56 +0300",
       "minecraft:river": "2025-06-07 00:51:32 +0300",
       "minecraft:meadow": "2025-06-07 00:21:27 +0300",
       "minecraft:stony_shore": "2025-06-07 00:17:52 +0300",
       "minecraft:snowy_plains": "2025-06-14 23:39:55 +0300",
       "minecraft:snowy_taiga": "2025-06-14 23:31:02 +0300",
+      "minecraft:frozen_peaks": "2025-06-15 02:17:46 +0300",
       "minecraft:plains": "2025-06-06 23:16:01 +0300"
     },
     "done": false
@@ -293,6 +297,7 @@
       "minecraft:spider": "2025-06-06 23:22:18 +0300",
       "minecraft:zombie": "2025-06-06 23:20:13 +0300",
       "minecraft:creeper": "2025-06-07 00:11:09 +0300",
+      "minecraft:drowned": "2025-06-15 02:02:31 +0300",
       "minecraft:zombie_villager": "2025-06-07 00:39:58 +0300",
       "minecraft:husk": "2025-06-14 23:35:19 +0300"
     },
@@ -318,11 +323,16 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-15 01:11:59 +0300",
       "biomeswevegone:cika_woods": "2025-06-14 23:07:46 +0300",
       "biomeswevegone:black_forest": "2025-06-14 23:07:59 +0300",
       "biomeswevegone:maple_taiga": "2025-06-07 00:50:56 +0300",
+      "biomeswevegone:orchard": "2025-06-15 02:02:37 +0300",
+      "biomeswevegone:sakura_grove": "2025-06-15 02:13:49 +0300",
       "biomeswevegone:prairie": "2025-06-06 23:44:30 +0300",
-      "biomeswevegone:coconino_meadow": "2025-06-07 00:49:35 +0300"
+      "biomeswevegone:allium_shrubland": "2025-06-15 02:00:31 +0300",
+      "biomeswevegone:coconino_meadow": "2025-06-07 00:49:35 +0300",
+      "biomeswevegone:dacite_ridges": "2025-06-15 01:19:21 +0300"
     },
     "done": false
   },
@@ -389,7 +399,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-06-06 23:45:47 +0300"
+      "apple": "2025-06-06 23:45:47 +0300",
+      "golden_apple": "2025-06-15 02:25:05 +0300"
     },
     "done": false
   },
@@ -404,9 +415,10 @@
       "common_helm": "2025-06-14 23:11:36 +0300",
       "common_hand": "2025-06-07 01:10:09 +0300",
       "common_chest": "2025-06-06 23:48:45 +0300",
+      "common_legs": "2025-06-15 01:30:45 +0300",
       "common_feet": "2025-06-06 23:48:42 +0300"
     },
-    "done": false
+    "done": true
   },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
@@ -510,9 +522,15 @@
     },
     "done": true
   },
-  "ae2:main/charger": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "certus": "2025-06-14 23:56:50 +0300"
+      "sugar_cane": "2025-06-14 22:01:55 +0300"
+    },
+    "done": false
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-06-14 22:10:51 +0300"
     },
     "done": true
   },
@@ -521,36 +539,6 @@
       "iron_pickaxe": "2025-06-14 22:40:20 +0300"
     },
     "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-06-15 00:02:25 +0300"
-    },
-    "done": true
-  },
-  "actuallyadditions:root": {
-    "criteria": {
-      "right_click": "2025-06-14 22:50:24 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-06-14 23:36:13 +0300"
-    },
-    "done": true
-  },
-  "ae2:main/storage_cell": {
-    "criteria": {
-      "c1k": "2025-06-14 22:10:51 +0300"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-06-14 22:01:55 +0300"
-    },
-    "done": false
   },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
@@ -564,9 +552,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "actuallyadditions:root": {
     "criteria": {
-      "lava_bucket": "2025-06-14 23:59:20 +0300"
+      "right_click": "2025-06-14 22:50:24 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-06-14 23:04:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-14 23:10:05 +0300"
     },
     "done": true
   },
@@ -582,17 +582,32 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-06-14 23:54:43 +0300"
-    },
-    "done": true
-  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-06-14 23:32:01 +0300"
     },
     "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "kill_apothic_invader": "2025-06-15 02:20:27 +0300",
+      "uncommon_hand": "2025-06-14 23:32:42 +0300",
+      "uncommon_helm": "2025-06-14 23:50:18 +0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-14 23:36:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mushroom_stew": "2025-06-14 23:36:13 +0300",
+      "pumpkin_pie": "2025-06-15 01:31:26 +0300"
+    },
+    "done": false
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -600,28 +615,63 @@
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
-      "criteria_0": "2025-06-14 23:04:12 +0300"
+      "requirement": "2025-06-14 23:54:43 +0300"
     },
     "done": true
   },
-  "apotheosis:progression/ascent": {
+  "ae2:main/charger": {
     "criteria": {
-      "uncommon_hand": "2025-06-14 23:32:42 +0300",
-      "uncommon_helm": "2025-06-14 23:50:18 +0300"
+      "certus": "2025-06-14 23:56:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-14 23:59:20 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-06-15 00:02:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-06-15 01:16:28 +0300"
     },
     "done": false
   },
-  "minecraft:husbandry/balanced_diet": {
+  "apothic_spawners:capturing": {
     "criteria": {
-      "mushroom_stew": "2025-06-14 23:36:13 +0300"
+      "egg": "2025-06-15 02:25:29 +0300"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "diamond": "2025-06-14 23:10:05 +0300"
+      "tamed_animal": "2025-06-15 01:16:28 +0300"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-06-15 02:07:11 +0300"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-06-15 01:29:13 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-15 01:19:49 +0300"
     },
     "done": true
   },
