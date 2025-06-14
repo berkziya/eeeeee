@@ -1,0 +1,503 @@
+{
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-06-01 23:19:46 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-06-01 23:19:47 +0300",
+      "has_wct": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-06-01 23:19:47 +0300",
+      "has_wct": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/sonic_bow/tick": {
+    "criteria": {
+      "requirement": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/thunder_harpoon/tick": {
+    "criteria": {
+      "requirement": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-06-01 23:19:47 +0300",
+      "has_wpt": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-06-01 23:19:47 +0300",
+      "has_wpt": "2025-06-01 23:19:47 +0300",
+      "has_wct": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "statues:root": {
+    "criteria": {
+      "core": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/altar/tick": {
+    "criteria": {
+      "requirement": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2025-06-01 23:19:47 +0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-06-01 23:19:54 +0300",
+      "in_mite_fortress": "2025-06-01 23:19:54 +0300"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-06-01 23:19:54 +0300"
+    },
+    "done": true
+  },
+  "compressedblocks:addiction/root": {
+    "criteria": {
+      "crafting_table": "2025-06-06 23:07:55 +0300"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-06-06 23:07:55 +0300"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/root": {
+    "criteria": {
+      "crafting_table": "2025-06-06 23:07:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-06 23:07:55 +0300"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-06-06 23:08:02 +0300"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-06-06 23:08:14 +0300",
+      "shovel": "2025-06-06 23:26:41 +0300",
+      "axe": "2025-06-06 23:10:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-06 23:08:26 +0300"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-06-06 23:08:33 +0300"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-06-06 23:09:15 +0300"
+    },
+    "done": false
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2025-06-06 23:15:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-06 23:15:41 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-06 23:15:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-06-07 00:51:32 +0300",
+      "minecraft:meadow": "2025-06-07 00:21:27 +0300",
+      "minecraft:stony_shore": "2025-06-07 00:17:52 +0300",
+      "minecraft:plains": "2025-06-06 23:16:01 +0300"
+    },
+    "done": false
+  },
+  "silentgear:swords": {
+    "criteria": {
+      "sword": "2025-06-06 23:18:04 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-06 23:18:12 +0300",
+      "minecraft:enderman": "2025-06-06 23:19:06 +0300",
+      "minecraft:spider": "2025-06-06 23:22:18 +0300",
+      "minecraft:zombie": "2025-06-06 23:20:13 +0300",
+      "minecraft:creeper": "2025-06-07 00:11:09 +0300",
+      "minecraft:zombie_villager": "2025-06-07 00:39:58 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-06 23:18:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-06 23:18:12 +0300"
+    },
+    "done": true
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2025-06-06 23:28:55 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:maple_taiga": "2025-06-07 00:50:56 +0300",
+      "biomeswevegone:prairie": "2025-06-06 23:44:30 +0300",
+      "biomeswevegone:coconino_meadow": "2025-06-07 00:49:35 +0300"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-06-06 23:44:30 +0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-06-06 23:44:54 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-06-06 23:44:54 +0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2025-06-06 23:45:18 +0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:air_compressor": {
+    "criteria": {
+      "0": "2025-06-06 23:45:19 +0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-06-06 23:45:21 +0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-06 23:45:45 +0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-06 23:45:45 +0300"
+    },
+    "done": false
+  },
+  "petrock:root": {
+    "criteria": {
+      "get_pick_to_mine_stoneium": "2025-06-06 23:45:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-06 23:45:47 +0300"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-06-06 23:45:47 +0300"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-06 23:45:49 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2025-06-07 01:10:09 +0300",
+      "common_chest": "2025-06-06 23:48:45 +0300",
+      "common_feet": "2025-06-06 23:48:42 +0300"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-06-06 23:54:55 +0300"
+    },
+    "done": true
+  },
+  "silentgear:stone_anvil": {
+    "criteria": {
+      "get_item": "2025-06-06 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-06-06 23:56:37 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2025-06-06 23:57:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-07 00:03:24 +0300"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-06-07 00:03:26 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-06-07 00:04:09 +0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-06-07 00:10:19 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2025-06-07 00:28:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 00:37:31 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-07 00:39:32 +0300"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2025-06-07 00:46:24 +0300"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-06-07 01:04:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-07 01:05:32 +0300"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "crude_repair_kit": "2025-06-07 01:05:43 +0300"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-11 18:22:04 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-06-11 18:22:04 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
