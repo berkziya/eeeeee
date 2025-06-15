@@ -257,6 +257,8 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 17:45:58 +0300",
       "minecraft:skeleton": "2025-06-07 00:16:17 +0300",
+      "minecraft:phantom": "2025-06-15 14:02:17 +0300",
+      "minecraft:enderman": "2025-06-15 16:25:27 +0300",
       "minecraft:spider": "2025-06-07 00:04:31 +0300",
       "minecraft:zombie": "2025-06-06 23:14:16 +0300",
       "minecraft:creeper": "2025-06-06 23:21:33 +0300",
@@ -292,12 +294,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-07 00:13:51 +0300",
       "minecraft:frozen_river": "2025-06-14 16:29:15 +0300",
+      "minecraft:cherry_grove": "2025-06-15 13:28:03 +0300",
       "minecraft:river": "2025-06-14 16:12:27 +0300",
       "minecraft:grove": "2025-06-14 16:10:04 +0300",
       "minecraft:meadow": "2025-06-14 16:25:23 +0300",
       "minecraft:stony_shore": "2025-06-06 23:37:51 +0300",
       "minecraft:snowy_plains": "2025-06-14 16:29:00 +0300",
       "minecraft:snowy_taiga": "2025-06-14 16:29:21 +0300",
+      "minecraft:dripstone_caves": "2025-06-15 15:54:59 +0300",
+      "minecraft:frozen_peaks": "2025-06-15 13:28:48 +0300",
       "minecraft:plains": "2025-06-06 23:14:54 +0300"
     },
     "done": false
@@ -491,21 +496,9 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "chalk:adventure/home_is_where_the_bed_is": {
     "criteria": {
-      "opened_chest": "2025-06-14 16:10:54 +0300"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-14 16:13:09 +0300"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/mb_cokeoven": {
-    "criteria": {
-      "form_multiblock": "2025-06-14 17:42:50 +0300"
+      "sleep_three_times_in_one_place": "2025-06-14 16:05:03 +0300"
     },
     "done": true
   },
@@ -513,31 +506,22 @@
     "criteria": {
       "biomeswevegone:frosted_coniferous_forest": "2025-06-14 16:30:05 +0300",
       "biomeswevegone:maple_taiga": "2025-06-14 17:14:25 +0300",
-      "biomeswevegone:prairie": "2025-06-14 16:10:51 +0300"
+      "biomeswevegone:orchard": "2025-06-15 13:29:24 +0300",
+      "biomeswevegone:prairie": "2025-06-14 16:10:51 +0300",
+      "biomeswevegone:allium_shrubland": "2025-06-15 13:19:08 +0300",
+      "biomeswevegone:coconino_meadow": "2025-06-15 13:22:26 +0300"
     },
     "done": false
   },
-  "minecraft:adventure/voluntary_exile": {
+  "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
-      "voluntary_exile": "2025-06-14 17:45:58 +0300"
+      "biomeswevegone:prairie": "2025-06-14 16:10:51 +0300"
     },
     "done": true
   },
-  "pneumaticcraft:pressure_tube": {
+  "lootr:1chest": {
     "criteria": {
-      "0": "2025-06-14 16:33:48 +0300"
-    },
-    "done": true
-  },
-  "petrock:root": {
-    "criteria": {
-      "get_pick_to_mine_stoneium": "2025-06-14 16:22:20 +0300"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-14 16:42:42 +0300"
+      "opened_chest": "2025-06-14 16:10:54 +0300"
     },
     "done": true
   },
@@ -547,21 +531,15 @@
     },
     "done": false
   },
-  "chalk:adventure/home_is_where_the_bed_is": {
-    "criteria": {
-      "sleep_three_times_in_one_place": "2025-06-14 16:05:03 +0300"
-    },
-    "done": true
-  },
   "lootr:10loot": {
     "criteria": {
       "opened_10": "2025-06-14 16:12:49 +0300"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "stone_pickaxe": "2025-06-14 16:22:20 +0300"
+      "iron_pickaxe": "2025-06-14 16:13:09 +0300"
     },
     "done": true
   },
@@ -571,15 +549,39 @@
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/adventure/root": {
+  "petrock:root": {
     "criteria": {
-      "biomeswevegone:prairie": "2025-06-14 16:10:51 +0300"
+      "get_pick_to_mine_stoneium": "2025-06-14 16:22:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-14 16:22:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-14 16:27:25 +0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-06-14 16:33:48 +0300"
     },
     "done": true
   },
   "silentgear:tip_upgrade": {
     "criteria": {
       "get_item": "2025-06-14 16:39:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-14 16:42:42 +0300"
     },
     "done": true
   },
@@ -591,9 +593,255 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "immersiveengineering:main/mb_cokeoven": {
     "criteria": {
-      "diamond": "2025-06-14 16:27:25 +0300"
+      "form_multiblock": "2025-06-14 17:42:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-14 17:45:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-15 13:09:02 +0300"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-06-15 13:18:48 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-15 13:25:07 +0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-15 13:50:23 +0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 13:51:59 +0300"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-06-15 14:44:07 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:35:39 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:35:17 +0300"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-06-15 15:13:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-15 14:38:42 +0300"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2025-06-15 14:11:57 +0300"
+    },
+    "done": true
+  },
+  "integratedtunnels:interfaces/interface_item": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:50:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:40 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_input": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:47:25 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_dynamo": {
+    "criteria": {
+      "place_block": "2025-06-15 14:10:33 +0300"
+    },
+    "done": true
+  },
+  "integratedterminals:root": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:48:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 13:51:59 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-15 14:02:58 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_output": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:47:30 +0300"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:47:21 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:26:33 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-06-15 13:36:33 +0300"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/craft_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:48:56 +0300"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2025-06-15 14:38:52 +0300"
+    },
+    "done": false
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-06-15 15:16:41 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variables": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:47:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:40 +0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 15:25:34 +0300"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-06-15 15:02:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-15 13:42:12 +0300"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-06-15 15:06:43 +0300"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/menril_glass": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:48:24 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:26:33 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:49:50 +0300"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:40 +0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:basic_network_components/value_displaying": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:48:53 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "place_block": "2025-06-15 14:09:14 +0300"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-06-15 15:16:47 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-15 16:11:04 +0300"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2025-06-15 14:47:21 +0300"
     },
     "done": true
   },

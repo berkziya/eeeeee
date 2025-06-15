@@ -269,15 +269,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-14 23:03:10 +0300",
       "minecraft:old_growth_pine_taiga": "2025-06-15 02:07:10 +0300",
-      "minecraft:frozen_river": "2025-06-15 01:11:56 +0300",
       "minecraft:taiga": "2025-06-15 02:07:14 +0300",
-      "minecraft:cherry_grove": "2025-06-14 23:00:56 +0300",
       "minecraft:river": "2025-06-07 00:51:32 +0300",
-      "minecraft:meadow": "2025-06-07 00:21:27 +0300",
       "minecraft:stony_shore": "2025-06-07 00:17:52 +0300",
       "minecraft:snowy_plains": "2025-06-14 23:39:55 +0300",
       "minecraft:snowy_taiga": "2025-06-14 23:31:02 +0300",
+      "minecraft:dripstone_caves": "2025-06-15 16:07:53 +0300",
       "minecraft:frozen_peaks": "2025-06-15 02:17:46 +0300",
+      "minecraft:frozen_river": "2025-06-15 01:11:56 +0300",
+      "minecraft:cherry_grove": "2025-06-14 23:00:56 +0300",
+      "minecraft:meadow": "2025-06-07 00:21:27 +0300",
       "minecraft:plains": "2025-06-06 23:16:01 +0300"
     },
     "done": false
@@ -292,14 +293,18 @@
     "criteria": {
       "minecraft:pillager": "2025-06-14 22:01:15 +0300",
       "minecraft:skeleton": "2025-06-06 23:18:12 +0300",
-      "minecraft:enderman": "2025-06-06 23:19:06 +0300",
+      "minecraft:phantom": "2025-06-15 13:46:51 +0300",
       "minecraft:witch": "2025-06-14 23:04:19 +0300",
+      "minecraft:husk": "2025-06-14 23:35:19 +0300",
+      "minecraft:piglin": "2025-06-15 14:40:04 +0300",
+      "minecraft:vindicator": "2025-06-15 16:09:17 +0300",
+      "minecraft:enderman": "2025-06-06 23:19:06 +0300",
+      "minecraft:silverfish": "2025-06-15 16:02:36 +0300",
       "minecraft:spider": "2025-06-06 23:22:18 +0300",
       "minecraft:zombie": "2025-06-06 23:20:13 +0300",
       "minecraft:creeper": "2025-06-07 00:11:09 +0300",
       "minecraft:drowned": "2025-06-15 02:02:31 +0300",
-      "minecraft:zombie_villager": "2025-06-07 00:39:58 +0300",
-      "minecraft:husk": "2025-06-14 23:35:19 +0300"
+      "minecraft:zombie_villager": "2025-06-07 00:39:58 +0300"
     },
     "done": false
   },
@@ -325,13 +330,18 @@
     "criteria": {
       "biomeswevegone:frosted_coniferous_forest": "2025-06-15 01:11:59 +0300",
       "biomeswevegone:cika_woods": "2025-06-14 23:07:46 +0300",
-      "biomeswevegone:black_forest": "2025-06-14 23:07:59 +0300",
-      "biomeswevegone:maple_taiga": "2025-06-07 00:50:56 +0300",
       "biomeswevegone:orchard": "2025-06-15 02:02:37 +0300",
-      "biomeswevegone:sakura_grove": "2025-06-15 02:13:49 +0300",
-      "biomeswevegone:prairie": "2025-06-06 23:44:30 +0300",
+      "biomeswevegone:skyrise_vale": "2025-06-15 16:03:31 +0300",
       "biomeswevegone:allium_shrubland": "2025-06-15 02:00:31 +0300",
       "biomeswevegone:coconino_meadow": "2025-06-07 00:49:35 +0300",
+      "biomeswevegone:black_forest": "2025-06-14 23:07:59 +0300",
+      "biomeswevegone:maple_taiga": "2025-06-07 00:50:56 +0300",
+      "biomeswevegone:pumpkin_valley": "2025-06-15 15:59:04 +0300",
+      "biomeswevegone:sakura_grove": "2025-06-15 02:13:49 +0300",
+      "biomeswevegone:prairie": "2025-06-06 23:44:30 +0300",
+      "biomeswevegone:zelkova_forest": "2025-06-15 15:25:16 +0300",
+      "biomeswevegone:coniferous_forest": "2025-06-15 15:23:03 +0300",
+      "biomeswevegone:forgotten_forest": "2025-06-15 16:06:14 +0300",
       "biomeswevegone:dacite_ridges": "2025-06-15 01:19:21 +0300"
     },
     "done": false
@@ -645,21 +655,15 @@
     },
     "done": false
   },
-  "apothic_spawners:capturing": {
-    "criteria": {
-      "egg": "2025-06-15 02:25:29 +0300"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-15 01:16:28 +0300"
     },
     "done": true
   },
-  "ars_additions:find_ruined_portal": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "find_ruined_portal": "2025-06-15 02:07:11 +0300"
+      "requirement": "2025-06-15 01:19:49 +0300"
     },
     "done": true
   },
@@ -669,9 +673,124 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+  "ars_additions:find_ruined_portal": {
     "criteria": {
-      "requirement": "2025-06-15 01:19:49 +0300"
+      "find_ruined_portal": "2025-06-15 02:07:11 +0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-06-15 02:25:29 +0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-06-15 13:42:11 +0300"
+    },
+    "done": true
+  },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "hammer": "2025-06-15 13:56:22 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-15 14:49:45 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-06-15 15:51:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-15 14:38:48 +0300",
+      "minecraft:warped_forest": "2025-06-15 14:43:50 +0300"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:47 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-15 15:43:32 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-15 15:43:20 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-15 15:43:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-15 14:48:03 +0300"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2025-06-15 14:39:55 +0300"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-06-15 16:11:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:47 +0300"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-06-15 15:02:33 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-06-15 15:32:22 +0300"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 14:38:47 +0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-15 16:12:51 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-15 15:43:20 +0300"
     },
     "done": true
   },

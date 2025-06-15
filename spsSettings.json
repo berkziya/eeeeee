@@ -3,7 +3,9 @@
   "difficulty": "EASY",
   "difficultyLocked": false,
   "cheats": true,
-  "invited": [],
+  "invited": [
+    "874dffb1-19f0-4109-9b83-d36e8e2ebfe6"
+  ],
   "shareResourcePack": false,
   "oppedPlayers": []
 }
